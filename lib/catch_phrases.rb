@@ -13,7 +13,6 @@ def link
   puts phrase
 end
 
-def anphrase(phrase)
-  phrase1 = phrase
-  puts phrase1
+def any_phrase(phrase)
+  puts phrase
 end
