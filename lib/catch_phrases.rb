@@ -14,5 +14,6 @@ def link
 end
 
 def anphrase(phrase)
-  puts phrase
+  phrase1 = phrase
+  puts phrase1
 end
